@@ -1,7 +1,7 @@
 # Hawariaw-Wakero
 # Fullstack developer(beginner)
 
-technical skills: HHTML, CSS
+technical skills: HTML, CSS
 
 EDUCATION
 
